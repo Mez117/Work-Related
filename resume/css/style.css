@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@600&display=swap');
+
+body {
+    background-color: grey;
+    line-height: 22px;
+    font-family: 'open sans', sans-serif;;
+}
+
+p {
+    font-size: 14px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 960px;
+    background-color: white;
+    border-radius: 8px;
+    height: 1080px;
+}
+
+.left-strip {
+    display: inline-block;
+    color: white;
+    background-color: rgb(14, 79, 58);
+    width: 30%;
+    height: 100%;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.strip-content {
+    margin: 0 auto;
+    width: 180px;
+}
+
+h2 {
+    font-family: 'Open sans', sans-serif;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Open sans', sans-serif;
+}
+
+#name {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.top-heading {
+    padding-top: 40px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 11px;
+    padding-bottom: 15px;
+    font-family: 'Open sans', sans-serif;
+}
+
+#tiny-break {
+    width: 20px;
+    color: rgba(240, 248, 255, 0.361);
+}
+
+.details {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.general-skills {
+    padding-left: 0;
+    list-style-type: square;
+}
+
+li {
+    padding-bottom: 9px;
+    font-size: 14px;
+}
+
+main {
+    display: inline-block;
+    width: 60%;
+    height: 100%;
+    padding-left: 50px;
+    vertical-align: top;
+}
+
+.time-frame {
+    color: rgb(133, 130, 130);
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+.skills {
+    margin-top: 5px;
+}
+
+.skills>li {
+    padding-bottom: 5px;
+}
+
+h4 {
+    margin: 0;
+    font-family: 'Open sans', sans-serif;
+    font-size: 15px;
+}
+
+.time-frame {
+    margin-top: 0;
+}
+
+.skills-break {
+    margin: 0;
+    margin-left: -15px;
+    color: rgba(128, 128, 128, 0.187);
+    border-style: dashed;
+}
+
+.p-skills {
+    margin-bottom: 0;
+}

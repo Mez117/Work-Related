@@ -15,7 +15,7 @@ p {
     max-width: 960px;
     background-color: white;
     border-radius: 8px;
-    height: 1080px;
+    height: 1150px;
 }
 
 .left-strip {
@@ -35,7 +35,7 @@ p {
 
 h2 {
     font-family: 'Open sans', sans-serif;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 h3 {
@@ -102,7 +102,7 @@ main {
 }
 
 .skills>li {
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 
 h4 {
@@ -139,7 +139,7 @@ svg {
     height: 18px;
 }
 
-.bruh {
+.inner {
     padding-left: 14px;
 }
 

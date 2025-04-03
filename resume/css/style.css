@@ -15,7 +15,7 @@ p {
     max-width: 960px;
     background-color: white;
     border-radius: 8px;
-    height: 1150px;
+    height: 1350px;
 }
 
 .left-strip {
@@ -196,4 +196,9 @@ svg {
   
 .a-link:hover span {
     transform: translate3d(-200%, 0, 0);
+}
+
+#web-link {
+    color: black;
+    font-weight: bold;
 }
